@@ -11,6 +11,7 @@ I created this to also give myself and others a starting point for React develop
 - Support for automated testing.
 - Extra safety with pre-commit and pre-push hooks.
 - Apollo Client/GraphQL support.
+- TypeScript support by default
 
 ## How to use
 
