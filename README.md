@@ -15,10 +15,7 @@ I created this to also give myself and others a starting point for React develop
 
 ## How to use
 
-As of 08/13/2021, I setup the project to be built first before serving locally.
-
-1. Run `npm run build` to create a Webpack bundle file in `dist/` folder.
-2. Run `npm start` to start a local development server. Changes in your `src` folder will be detected on save and will trigger a hot reload.
+- Run `npm start` to start a local development server. Changes in your `src` folder will be detected on save and will trigger a hot reload.
 
 ## Changelog
 
