@@ -25,3 +25,7 @@ I created this to also give myself and others a starting point for React develop
 - Added Webpack and loaders, Babel, React, React DOM
 - Configured Webpack for module import resolution
 - Created starter React components
+
+08/16/2021
+
+- Setup ESLint Airbnb, Prettier, Husky and Lint-Staged
