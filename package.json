@@ -8,6 +8,9 @@
     "build": "webpack",
     "prepare": "husky install"
   },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
   "author": "Paolo Dapul",
   "license": "ISC",
   "devDependencies": {
