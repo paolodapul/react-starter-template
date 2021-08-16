@@ -9,7 +9,10 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "**/*": "prettier-eslint --write --ignore-unknown"
+    "**/*": [
+      "eslint",
+      "prettier --write --ignore-unknown"
+    ]
   },
   "author": "Paolo Dapul",
   "license": "ISC",
