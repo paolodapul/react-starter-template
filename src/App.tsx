@@ -1,11 +1,8 @@
-/* eslint-disable react/jsx-filename-extension */
-/* eslint-disable arrow-body-style */
 import React from "react";
+import "./App.css";
 
-interface Props {}
-
-const App: React.FunctionComponent<Props> = () => {
-  return <div>Hello, React!</div>;
-};
+const App = (): JSX.Element => (
+  <div className="App">React Starter Template</div>
+);
 
 export default App;
