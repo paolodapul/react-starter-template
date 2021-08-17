@@ -29,3 +29,13 @@ I created this to also give myself and others a starting point for React develop
 08/16/2021
 
 - Setup ESLint Airbnb, Prettier, Husky and Lint-Staged
+
+08/17/2021 (Branch: TypeScript Integration - WIP)
+
+- Applied config modifications for TypeScript support
+- Modified configuration to compile the project using TypeScript in itself
+
+TBD
+
+- Use TypeScript for type-checking, retain Babel for transpiling
+- TS + Babel for type checking while maximizing JS compatibility
