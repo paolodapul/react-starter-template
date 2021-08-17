@@ -37,3 +37,5 @@ I created this to also give myself and others a starting point for React develop
 - Replaced linting library with eslint-config-airbnb-typescript
 - Removed Babel dependencies as TypeScript will handle the transpilation
 - Removed prettier-eslint dependencies
+- Moved lint-staged configuration to a separate file
+- Added `tsc` checking as a pre-commit hook
